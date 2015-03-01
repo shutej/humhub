@@ -1,0 +1,4 @@
+humhub
+======
+
+Dockerfile for HumHub.
